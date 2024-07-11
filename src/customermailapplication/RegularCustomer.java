@@ -8,7 +8,7 @@ package customermailapplication;
 
 /**
  *
- * @author sarun
+ * @author sarun (Editted by 64050030_Kitipum_Nornua)
  */
 //make this class a subclass of customer
 public class RegularCustomer extends Customer {

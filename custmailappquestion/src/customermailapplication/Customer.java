@@ -7,7 +7,7 @@
 package customermailapplication;
 /**
  *
- * @author sarun
+ * @author sarun (Editted by 64050030_Kitipum_Nornua)
  */
 public abstract class Customer { //make this class abstract
     public abstract String createMail(); //make this method abstract
